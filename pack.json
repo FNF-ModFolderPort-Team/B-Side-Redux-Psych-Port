@@ -1,7 +1,7 @@
 {
-	"name": "Name",
-	"description": "Description",
-	"restart":false,
+	"name": "B Side Redux",
+	"description": "A Psych Port version of B Side Redux",
+	"restart": false,
 	"runsGlobally": false,
 	"color": [170, 0, 255],
 	"discordRPC": "863222024192262205",
